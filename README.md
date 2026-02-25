@@ -1,5 +1,4 @@
 Unity Performance Optimization Project
-이 프로젝트는 유니티 환경에서 대규모 객체와 UI 리스트를 효율적으로 관리하기 위한 최적화 기법을 적용한 사례입니다.
 
 주요 구현 기능
 1. Dialog System 및 Prefab 연결
